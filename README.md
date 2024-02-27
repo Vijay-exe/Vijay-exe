@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vijay-exe
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning DSA & Java
-- 💞️ I’m looking to collaborate on Flutter project
+- 💞️ I’m looking to collaborate on Java project
 - 📫 You can reach me on ojhavijay0145@gmail.com
 
 <!---
